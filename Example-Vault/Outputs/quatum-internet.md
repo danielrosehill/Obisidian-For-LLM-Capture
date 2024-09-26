@@ -1,3 +1,5 @@
+[Prompt](../Prompts/quatum-internet_prompt.md)
+
 # Prompt
 
 Describe a hypothetical quantum internet and its potential applications, considering the challenges in implementation and the impact on global communication and security.

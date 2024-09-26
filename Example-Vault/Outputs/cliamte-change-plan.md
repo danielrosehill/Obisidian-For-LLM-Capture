@@ -1,3 +1,5 @@
+[Prompt](../Prompts/cliamte-change-plan_prompt.md)
+
 # Prompt
 
 Develop a comprehensive strategy to mitigate the effects of climate change on global food security over the next 50 years.

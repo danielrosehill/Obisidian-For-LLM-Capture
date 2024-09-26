@@ -1,3 +1,5 @@
+[Prompt](../Prompts/futuristic-home-system_prompt.md)
+
 # Prompt
 
 Design a futuristic smart home system that integrates artificial intelligence, renewable energy, and advanced robotics to maximize efficiency, comfort, and sustainability.

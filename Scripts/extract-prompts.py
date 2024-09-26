@@ -16,8 +16,10 @@ def create_bidirectional_link(prompt_file, output_file):
 
 def process_files():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    outputs_dir = os.path.join(os.path.dirname(script_dir), 'Outputs')
-    prompts_dir = os.path.join(os.path.dirname(script_dir), 'Prompts')
+    parent_dir = os.path.dirname(script_dir)
+    example_vault_dir = os.path.join(parent_dir, 'Example-Vault')
+    outputs_dir = os.path.join(example_vault_dir, 'Outputs')
+    prompts_dir = os.path.join(example_vault_dir, 'Prompts')
 
     if not os.path.exists(prompts_dir):
         os.makedirs(prompts_dir)
