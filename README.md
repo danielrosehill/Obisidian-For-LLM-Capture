@@ -35,6 +35,14 @@ My long term plan remains building a database-backed solution for this very purp
 - Templates
   - detailed
   - simple
+
+---
+
+## Vault Manager GUI
+
+A simple Python GUI for running administration and optimisation activities over the vault.
+
+Icon: Freepik
  
 ---
 
