@@ -4,8 +4,7 @@ I created this repository in order to share a few resources that I've developed 
 
 My long term plan remains building a database-backed solution for this very purpose (see: "Output Hub" repositories!). But as a stopgap and while my project is under development, I'm enjoying using Obsidian to collect them (and who knows ... perhaps this will be my long term direction!).
 
-
-## Use Case Statement
+---
 
 ## Author
 

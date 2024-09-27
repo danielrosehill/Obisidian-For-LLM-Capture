@@ -1,7 +1,7 @@
 import os
 
-# Define the base directory for Example-Vault relative to the script location
-base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'Example-Vault'))
+# Define the base directory for Vault relative to the script location
+base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'Vault'))
 
 # Define the folder structure
 folder_structure = {

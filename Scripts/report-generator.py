@@ -9,8 +9,8 @@ def count_markdown_files(directory):
                 count += 1
     return count
 
-# Define the base directory for Example-Vault
-base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'Example-Vault'))
+# Define the base directory for Vault
+base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'Vault'))
 
 # Define the folders to check
 folders = ['Agents', 'Outputs', 'Prompts']
