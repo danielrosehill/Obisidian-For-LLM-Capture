@@ -10,13 +10,13 @@ My long term plan remains building a database-backed solution for this very purp
 
 |-- Agents
 |   |-- Custom Agents
-|   `-- Predefined Agents
+|  -- Predefined Agents
 |-- Knowledge
 |-- Outputs
 |   |-- Demo-Outputs
 |   |-- Edited
 |   |-- Logs
-|   `-- Reviews
+|   -- Reviews
 |-- Prompts
 |   |-- Active
 |   |-- Archived
@@ -24,18 +24,17 @@ My long term plan remains building a database-backed solution for this very purp
 |   |-- Skeletons
 |   |-- System Prompts
 |   |-- Templates
-|   `-- User Prompts
+|   -- User Prompts
 |-- Reports
 |-- Resources
 |   |-- LLM-Models
-|   `-- Prompt-Engineering
+|   -- Prompt-Engineering
 |-- Structure
 |   |-- no-files
-|   `-- with-files
-`-- Templates
+|   -- with-files
+-- Templates
     |-- detailed
-    `-- simple
-
+    -- simple
 ---
 
 ## Author
