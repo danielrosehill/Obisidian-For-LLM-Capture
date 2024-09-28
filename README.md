@@ -6,35 +6,9 @@ My long term plan remains building a database-backed solution for this very purp
 
 ---
 
-## Example Vault Structure
+## Folder Structure
 
-- Agents
-  - Custom Agents
-  - Predefined Agents
-- Knowledge
-- Outputs
-  - Demo-Outputs
-  - Edited
-  - Logs
-  - Reviews
-- Prompts
-  - Active
-  - Archived
-  - Autoextracted
-  - Skeletons
-  - System Prompts
-  - Templates
-  - User Prompts
-- Reports
-- Resources
-  - LLM-Models
-  - Prompt-Engineering
-- Structure
-  - no-files
-  - with-files
-- Templates
-  - detailed
-  - simple
+See the `tree structure`  document within `Documentation`.
 
 ---
 
