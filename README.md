@@ -6,6 +6,22 @@ My long term plan remains building a database-backed solution for this very purp
 
 ---
 
+## Helper GUIs
+
+To pull in the latest versions of the helper GUIs, please run:
+
+`updates-guis.sh` 
+
+located at the repo base.
+
+The GUIs are configured as submodules.
+
+Their paths can be found in: `.gitmodules`
+
+located at the repo base.
+
+---
+
 ## Folder Structure
 
 See the `tree structure`  document within `Documentation`.

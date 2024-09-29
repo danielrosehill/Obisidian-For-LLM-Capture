@@ -1,3 +1,0 @@
-https://github.com/danielrosehill/LLM-Obsidian-Vault-Backup-Utility.git
-https://github.com/danielrosehill/Obsidian-LLM-Vault-Management-GUI.git
-https://github.com/danielrosehill/Obsidian-Prompt-Output-Saver.git
