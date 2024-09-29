@@ -1,11 +1,17 @@
 # Related Repositories
 
-## GUI for saving prompts and outputs into repo
+---
 
-https://github.com/danielrosehill/Obsidian-Prompt-Output-Saver
+## Component GUIs
 
-## Backup Utility GUI
+### Backup Utility GUI
 
 https://github.com/danielrosehill/LLM-Obsidian-Vault-Backup-Utility
 
-## Vault Manager GUI
+### Prompt saving GUI
+
+https://github.com/danielrosehill/Obsidian-Prompt-Output-Saver
+
+### Vault Management GUI
+
+https://github.com/danielrosehill/Obsidian-LLM-Vault-Management-GUI
