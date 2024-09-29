@@ -39,19 +39,51 @@ Key directories:
 
 ---
 
-## Vault Manager GUI
+## Helper GUIs
 
-![alt text](Screenshots/1.png)
+These are located in `Helper-GUIs`
 
-A simple Python GUI for running administration and optimisation activities over the vault.
+### GUI For Saving Outputs To Vault Via API Call
 
-Functions are:
+![alt text](Screenshots/GUIS-V1/outputsaver/1.png)
 
-1) Extract prompts (by copying saved prompts from `/Outputs` to `/Prompts` and automatically creating backlinks)
-2) Linting nonvalid characterse from filenames
-3) Facilitating the easy generation of reports to keep track of growth in activity for saved outputs, prompts, and agents
+![alt text](Screenshots/GUIS-V1/outputsaver/2.png)
 
-Icon: Freepik
+![alt text](Screenshots/GUIS-V1/outputsaver/3.png)
+
+![alt text](Screenshots/GUIS-V1/outputsaver/4.png)
+
+![alt text](Screenshots/GUIS-V1/outputsaver/5.png)
+
+![alt text](Screenshots/GUIS-V1/outputsaver/6.png)
+
+![alt text](Screenshots/GUIS-V1/outputsaver/7.png)
+
+![alt text](Screenshots/GUIS-V1/outputsaver/8.png)
+
+---
+
+### GUI For  Performing Vault Management And Optimisation Operations
+
+Specific to LLM operations such as extracting prompts from outputs
+
+![alt text](Screenshots/GUIS-V1/vault-manager/1.png)
+
+![alt text](Screenshots/GUIS-V1/vault-manager/2.png)
+
+![alt text](Screenshots/GUIS-V1/vault-manager/3.png)
+
+![alt text](Screenshots/GUIS-V1/vault-manager/4.png)
+
+![alt text](Screenshots/GUIS-V1/vault-manager/5.png)
+
+![alt text](Screenshots/GUIS-V1/vault-manager/6.png)
+
+![alt text](Screenshots/GUIS-V1/vault-manager/7.png)
+
+![alt text](Screenshots/GUIS-V1/vault-manager/8.png)
+
+![alt text](Screenshots/GUIS-V1/vault-manager/9.png)
  
 ---
 
