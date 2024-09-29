@@ -2,16 +2,6 @@
 
 ---
 
-## Component GUIs
+## Helper GUIs
 
-### Backup Utility GUI
-
-https://github.com/danielrosehill/LLM-Obsidian-Vault-Backup-Utility
-
-### Prompt saving GUI
-
-https://github.com/danielrosehill/Obsidian-Prompt-Output-Saver
-
-### Vault Management GUI
-
-https://github.com/danielrosehill/Obsidian-LLM-Vault-Management-GUI
+See: `.gitmodules` at the repo base for a list of helper GUIs which are configued as submodules. 
