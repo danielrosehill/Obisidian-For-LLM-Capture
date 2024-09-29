@@ -13,7 +13,7 @@ class ObsidianScaffolder(QMainWindow):
     def initUI(self):
         self.setWindowTitle('Obsidian Vault Scaffolder')
         self.setGeometry(100, 100, 600, 400)
-        self.setStyleSheet("""
+        self.setStyleSheet("v""
             QMainWindow {
                 background-color: #f0f0f0;
             }
