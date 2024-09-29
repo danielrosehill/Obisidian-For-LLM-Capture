@@ -7,3 +7,6 @@
 [submodule "GUIs/Active/Obsidian-Prompt-Output-Saver"]
 	path = GUIs/Active/Obsidian-Prompt-Output-Saver
 	url = https://github.com/danielrosehill/Obsidian-Prompt-Output-Saver.git
+[submodule "GUIs/Active/Obisidian-Prompt-Output-Saver-Local-Only"]
+	path = GUIs/Active/Obisidian-Prompt-Output-Saver-Local-Only
+	url = https://github.com/danielrosehill/Obisidian-Prompt-Output-Saver-Local-Only
