@@ -1,0 +1,9 @@
+[submodule "GUIs/Active/LLM-Obsidian-Vault-Backup-Utility"]
+	path = GUIs/Active/LLM-Obsidian-Vault-Backup-Utility
+	url = https://github.com/danielrosehill/LLM-Obsidian-Vault-Backup-Utility.git
+[submodule "GUIs/Active/Obsidian-LLM-Vault-Management-GUI"]
+	path = GUIs/Active/Obsidian-LLM-Vault-Management-GUI
+	url = https://github.com/danielrosehill/Obsidian-LLM-Vault-Management-GUI.git
+[submodule "GUIs/Active/Obsidian-Prompt-Output-Saver"]
+	path = GUIs/Active/Obsidian-Prompt-Output-Saver
+	url = https://github.com/danielrosehill/Obsidian-Prompt-Output-Saver.git
